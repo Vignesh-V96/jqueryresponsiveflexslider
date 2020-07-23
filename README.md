@@ -1,0 +1,2 @@
+# jqueryresponsiveflexslider
+responsive jquery flexsliderusing bootstrap
